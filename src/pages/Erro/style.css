@@ -1,0 +1,33 @@
+.pagina-erro {
+    height: calc(90vh - 60px);
+
+    margin: 0 auto;
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.pagina-erro h1{
+    font-size: 72px;
+}
+
+.pagina-erro span{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.pagina-erro a{
+    background-color: #2356e1;
+    color: white;
+    
+    margin-top: 20px;
+    padding: 10px 20px;
+
+    text-decoration: none;
+    font-weight: bold;
+
+    border-radius: 4px;
+}
